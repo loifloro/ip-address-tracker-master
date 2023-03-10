@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/loifloro/ip-address-tracker-master)
-- Live Site URL: [Cloudfare](ip-address-tracker-master-cai.pages.dev)
+- Live Site URL: [Cloudfare](ip-address-tracker-master-cai.pages.dev/dist)
 
 ## My process
 
